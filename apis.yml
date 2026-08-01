@@ -1,8 +1,25 @@
 aid: pitch-aeronautics
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pitch-aeronautics.png
 name: Pitch Aeronautics
-description: Pitch Aeronautics is a company surfaced as a portfolio company of techstars and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  Pitch Aeronautics provides AI-powered weather intelligence and drone-deployable line
+  solutions for electric utilities, helping them boost grid capacity, increase reliability,
+  and reduce wildfire risk. The company pairs aerial hardware that installs and inspects
+  power-line equipment with software that turns real-time atmospheric and grid data into
+  dynamic line-rating and operational intelligence. Pitch Aeronautics is a Techstars-backed
+  company; this API Evangelist profile was enriched from the company's public website. No
+  public developer API, SDK, or developer portal was found during enrichment (July 2026).
 url: https://raw.githubusercontent.com/api-evangelist/pitch-aeronautics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,10 +28,23 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Electric Utilities
+- Energy Grid
+- Drones
+- Weather Intelligence
+- Wildfire Risk
+- Aerial Robotics
+- Grid Capacity
+- Techstars
 apis: []
 maintainers:
 - FN: Kin Lane
