@@ -45,7 +45,7 @@ x-enrichment:
   artifacts_added: 0
   pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-10-06'
 tags:
 - Company
 - Electric Utilities
@@ -63,5 +63,7 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- url: https://www.pitchaero.com/blog/
+  type: Blog
 - type: Website
   url: https://pitchaero.com/
